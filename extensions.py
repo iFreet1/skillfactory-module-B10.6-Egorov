@@ -1,7 +1,6 @@
-import telebot
 import requests
 import json
-from config import TOKEN, currency_keys
+from config import currency_keys
 
 
 class ConvertException(Exception):

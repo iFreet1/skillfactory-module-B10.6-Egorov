@@ -1,6 +1,4 @@
 import telebot
-import requests
-import json
 from config import TOKEN, currency_keys
 from extensions import Converter, ConvertException
 
